@@ -1,0 +1,15 @@
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\bin\Debug\net6.0\C-FinalProject.exe
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\bin\Debug\net6.0\C-FinalProject.deps.json
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\bin\Debug\net6.0\C-FinalProject.runtimeconfig.json
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\bin\Debug\net6.0\C-FinalProject.dll
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\bin\Debug\net6.0\C-FinalProject.pdb
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\obj\Debug\net6.0\C-FinalProject.csproj.AssemblyReference.cache
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\obj\Debug\net6.0\C-FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\obj\Debug\net6.0\C-FinalProject.AssemblyInfoInputs.cache
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\obj\Debug\net6.0\C-FinalProject.AssemblyInfo.cs
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\obj\Debug\net6.0\C-FinalProject.csproj.CoreCompileInputs.cache
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\obj\Debug\net6.0\C-FinalProject.dll
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\obj\Debug\net6.0\refint\C-FinalProject.dll
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\obj\Debug\net6.0\C-FinalProject.pdb
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\obj\Debug\net6.0\C-FinalProject.genruntimeconfig.cache
+D:\Программы\GeekBrains_Homework\C# FinalProject\C-FinalProject\obj\Debug\net6.0\ref\C-FinalProject.dll
